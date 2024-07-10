@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @typing1379 from YSU
 - 👀 I’m interested in raspberry pi pico
+<!--
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 ### Hi there  
 # about me
 <!---
